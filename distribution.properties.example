@@ -1,0 +1,12 @@
+# You can rename this file to "distribution.properties" and set the
+# properties within to whatever repository URLs you wish. Then a
+# `mvn deploy` will "do the right thing".
+#
+# For example, you could set the .url properties to something like
+# "file:///opt/maven-repo/releases" to deploy to a local repository ;)
+
+snapshot.repo.id=snapshot-repo
+snapshot.repo.url=http://nexus.example.com/snapshot
+
+release.repo.id=release-repo
+release.repo.url=http://nexus.example.com/release
