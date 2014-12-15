@@ -1,4 +1,4 @@
-# Thymeleaf Layout Annotation
+# Thymeleaf Layout Interceptor
 
 This package provides an annotation and interceptor that add layouts support to
 [Thymeleaf](http://thymeleaf.org/) under [Spring](http://spring.io/).
